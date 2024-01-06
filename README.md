@@ -12,7 +12,7 @@ I am a bootcamp in training student
 - 👯 I’m looking to collaborate on **daily planner app**
 
 ## Sources
-    - w3schools
+    -w3schools
     -mdn
     -youtube
     -instructor and did a study group
